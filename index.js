@@ -37,8 +37,7 @@ const run = (ID) => {
                 const language = tdList[6];
                 const codeLength = tdList[7];
                 const created_at = tdList[8];
-                console.log(`제출 번호: ${submitId}, 아이디: ${userId}, 문제: ${problemId}, 결과: ${result}, 
-                메모리: ${memory}, 시간: ${time}, 언어: ${language}, 코드 길이: ${codeLength}, 제출한 시간: ${created_at}`);
+                console.log(`제출 번호: ${submitId}, 아이디: ${userId}, 문제: ${problemId}, 결과: ${result}, 메모리: ${memory}, 시간: ${time}, 언어: ${language}, 코드 길이: ${codeLength}, 제출한 시간: ${created_at}`);
             }
 
             const nextPageBtn = await page.$('#next_page');
