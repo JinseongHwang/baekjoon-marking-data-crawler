@@ -1,0 +1,15 @@
+{
+  "name": "marking-data-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Jinseong Hwang",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
