@@ -35,8 +35,9 @@ Baekjoon Online Judge(BOJ)는 많은 PS 유저들, 고수 회원들을 보유하
 
 ### 버전별 기능 소개
 
-- **버전 관리는 [Semantic Versioning](https://semver.org/)방식을 따른다.**
+**버전 관리는 [Semantic Versioning](https://semver.org/)방식을 따른다.**
 - version 1.0.0
+![1.0.0 실행 결과](https://user-images.githubusercontent.com/52629158/105679290-930bea80-5f31-11eb-8f39-1563ca3c963e.png)
 ```
 콘솔에서 유저 ID를 입력하면 채점 현황 정보를 콘솔에 출력한다.
 ```
@@ -45,4 +46,4 @@ Baekjoon Online Judge(BOJ)는 많은 PS 유저들, 고수 회원들을 보유하
 ### 앞으로 어떤 기능들이 추가 될 것인가?
 
 - 채점 데이터가 콘솔이 아닌 엑셀(.xlsx) 파일에 저장되도록 기능 추가.
-- [Electron.js](https://www.electronjs.org/)를 활용해서 
+- [Electron.js](https://www.electronjs.org/)를 활용해서 GUI를 가진 데스크톱 앱 형식으로 구현.
