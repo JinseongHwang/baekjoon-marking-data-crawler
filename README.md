@@ -30,7 +30,6 @@ Pagination 또한 구현되어 있지 않기 때문에 고수들의 초보 시�
 
 ### BOJ 플랫폼 소개
 - [Baekjoon Online Judge](https://www.acmicpc.net/)
-- [나무위키:Baekjoon OJ](https://namu.wiki/w/Baekjoon%20OJ?from=%EB%B0%B1%EC%A4%80)
 
 
 ### 기술 스택
